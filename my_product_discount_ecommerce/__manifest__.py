@@ -6,6 +6,7 @@
     'author': 'Ayush Gupta',
     'depends': ['product', 'website_sale'],
     'data': [
+        'views/product_template.xml',
         'views/website_sale_template.xml',
     ],
     'installable': True,
